@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Mail spam predictor extension",
+    "version": "1.0.1",
+    "description": "This extension predicts whether the mail is spam or not",
+    "icons":{
+        "16" : "icon.png",
+        "48" : "icon.png",
+        "128" : "icon.png"
+    }
+}
